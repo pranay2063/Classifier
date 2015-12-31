@@ -21,7 +21,7 @@ function stem = porterStemmer(inString)
 inString = lower(inString);
 
 global j;
-b = inString;
+b = inString; 
 k = length(b);
 k0 = 1;
 j = k;
