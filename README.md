@@ -1,1 +1,1 @@
-This is a repository for all #ML projects
+# This is a repository for all Machine Learning projects
