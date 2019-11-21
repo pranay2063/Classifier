@@ -1,1 +1,1 @@
-# This is a repository for all Machine Learning projects
+# Machine Learning concepts and projects
