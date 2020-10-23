@@ -1,4 +1,4 @@
 
-*Magenta* - https://magenta.tensorflow.org/
+*Magenta - https://magenta.tensorflow.org/*
 
-*Magenta Demos* - https://magenta.tensorflow.org/demos/web/
+*Magenta Demos - https://magenta.tensorflow.org/demos/web/*
